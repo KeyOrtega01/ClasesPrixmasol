@@ -1,0 +1,17 @@
+body, html{
+font-family: 'Times New Roman', Times, serif;
+color: black;
+padding-top: 10px;
+padding-bottom: 300px; 
+}
+.carousel-item{
+    padding-top: 0px;
+    img{
+        height: 70vh;
+        width: 50vh;
+    }
+}
+#Bienvenido{
+    font-size: 30px;
+    text-align: center;
+}
